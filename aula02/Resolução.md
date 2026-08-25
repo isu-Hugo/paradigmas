@@ -1,0 +1,5 @@
+2. Plankalkül não foi implementada em sua época. Ainda assim, por que ela é relevante para a história das linguagens? Cite três recursos antecipados por seu projeto e explique o valor de um deles.
+R: O Plankalkul ainda é referencia como pioneiro da primeira linguagem de alto nível do mundo, onde conceitos modernos já haviam sido criados na década de 1940. Estruturas de dados, permitia a criação de arrays além dos tipos básicos. Estruturas de repetição semelhantes ao for e, asserções, para garantir o estado do programa
+
+3. Compare Short Code, Speedcoding e os sistemas A-0/A-1/A-2 quanto ao problema enfrentado e à estratégia adotada. Por que chamá-los simplesmente de compiladores modernos seria impreciso?
+R: O short Code possuía uma limitação semântica ao precisar ler e escrever expressões matemáticas em código de maquina, a solução foi a criação de um código numérico  que representasse estas equações. O Speed Coding possuía uma limitação no gerenciamento de memória pelo hardware, que foi solucionada com a adição de uma maquina virtual para interpretação. Sistemas 'A-0'   
